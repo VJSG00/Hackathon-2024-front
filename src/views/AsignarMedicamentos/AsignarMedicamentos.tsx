@@ -74,7 +74,7 @@ const AssignMedication: React.FC = () => {
 
     return (
         <>
-            <h2 className='text-4xl font-black text-slate-500'>Registrar paciente</h2>
+            <h2 className='text-4xl font-black text-slate-500'>Registro de Entregas</h2>
             <div className="border-t-2 border-gray-300 my-4"></div>
 
             <div className="flex">
